@@ -1,0 +1,17 @@
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\bin\Debug\net6.0-windows\Prova2Bi.exe
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\bin\Debug\net6.0-windows\Prova2Bi.deps.json
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\bin\Debug\net6.0-windows\Prova2Bi.runtimeconfig.json
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\bin\Debug\net6.0-windows\Prova2Bi.dll
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\bin\Debug\net6.0-windows\Prova2Bi.pdb
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.csproj.AssemblyReference.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.Form1.resources
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.csproj.GenerateResource.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.AssemblyInfoInputs.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.AssemblyInfo.cs
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.csproj.CoreCompileInputs.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.dll
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\refint\Prova2Bi.dll
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.pdb
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\Prova2Bi.genruntimeconfig.cache
+C:\Users\Sempo\OneDrive\Documents\IFRO\Matérias\PO2\Programas\Prova2Bi\Prova2Bi\obj\Debug\net6.0-windows\ref\Prova2Bi.dll
